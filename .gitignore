@@ -1,4 +1,7 @@
 _site/
+private/
+emojis/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+desktop.ini

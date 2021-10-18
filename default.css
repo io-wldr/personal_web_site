@@ -23,8 +23,7 @@ a:active{color: #aaa;text-decoration: none}
 header,footer{
     background-color: #222;
     text-align: center;
-    border: solid 1px #000;
-    
+   
 }
 
 main{
@@ -34,8 +33,11 @@ main{
 }
 
 section {
-    width:80%;
-    margin:auto;}
+    border: 2px #fff dashed;
+    width:75%;
+    padding: 0 20px;
+    margin:0px auto;
+}
 
-.cool{text-decoration: dotted underline}
+.cool{text-decoration: 2px dotted underline}
 .icon{filter:invert()}
