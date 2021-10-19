@@ -1,8 +1,5 @@
-_site/
-private/
-emojis/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-desktop.ini
-.vscode
+vendor
